@@ -9,7 +9,7 @@ Comentei um tempo atrás com a Melissa que eu estava planejando comprar um Ardui
 
 Passaram-se algumas semanas e, no início de novembro, Melissa me presenteou com uma UNO R3 CH340G Atmega328P, uma versão da [Arduino UNO](arduino-uno). Obviamente, fiquei muito feliz, mas por conta de uma viagem acabei levando um tempo para poder mexer na placa.
 
-![Uno R3](uno-r3.jpg)
+![Placa Uno R3](uno-r3.png)
 
 De início, comecei a usar o [Tinkercad](https://www.tinkercad.com/) para aprender o básico das [protoboards](https://pt.wikipedia.org/wiki/Placa_de_ensaio) e de Arduino.
 
