@@ -1,12 +1,15 @@
 ---
 layout: page
 title: Sobre
+author: Arthur Kuwahara
 permalink: /sobre/
 ---
-Esse texto foi criado como forma de me entreter, **me animar** por estar fazendo algo e demonstrar minha evolução na forma de um *changelog*. Além disso, é uma forma de criar *hobbies*.
+Estudante do Bacharelado em Sistemas de Informação, da [Universidade de São Paulo](usp), no [Instituto de Ciências Matemáticas e de Computação](icmc), Arthur é o autor desse site.
+Tendo como objetivo **se animar** por estar fazendo algo e demonstrar sua evolução na forma de um [*digital garden*](digital-garden). Além disso, é um *hobby*.
 
-Além disso, eu criarei além desse arquivo, em paralelo, outros arquivos na forma de [*digital garden*](link_here) para que eu possa ir dando ênfase, naquilo que for necessário, e que eu estiver aprendendo.
+Sobretudo, a ideia é ir escrevendo durante suas atividades.
 
-Tudo ficará nesse repositório!
 
-Sobretudo, a ideia é ir escrevendo conforme for estudando/desenvolvendo algo.
+[usp]:https://setembruu.github.io/
+[icmc]:https://www.icmc.usp.br/
+[digital-garden]:https://nesslabs.com/digital-garden-set-up
