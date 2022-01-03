@@ -7,7 +7,9 @@ categories: ARDUINO APRENDENDO
 ---
 Comentei um tempo atrás com a Melissa que eu estava planejando comprar um Arduino. Até então, meus conhecimentos sobre isso eram: os obtidos nas três aulas que frequentei de Organização de Computadores Digitais (do professor Simões) e alguma coisa de conhecimento comum na internet.
 
-Passaram-se algumas semanas e, no início de novembro, Melissa me presenteou com uma UNO R3 CH340G Atmega328P ![Alt Text](/uno-r3.jpg/), uma versão da [Arduino UNO](arduino-uno). Obviamente, fiquei muito feliz, mas por conta de uma viagem acabei levando um tempo para poder mexer na placa.
+Passaram-se algumas semanas e, no início de novembro, Melissa me presenteou com uma UNO R3 CH340G Atmega328P, uma versão da [Arduino UNO](arduino-uno). Obviamente, fiquei muito feliz, mas por conta de uma viagem acabei levando um tempo para poder mexer na placa.
+
+![](/uno-r3.jpg/)
 
 De início, comecei a usar o [Tinkercad](https://www.tinkercad.com/) para aprender o básico das [protoboards](https://pt.wikipedia.org/wiki/Placa_de_ensaio) e de Arduino.
 
