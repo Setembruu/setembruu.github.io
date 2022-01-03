@@ -15,21 +15,23 @@ Depois me aventurei com a LED interna da placa. Melissa me deu uma protoboard de
 
 ```cpp
 void setup() {
-  // 
   pinMode(LED_BUILTIN, OUTPUT);
 }
 
-// the loop function runs over and over again forever
+// a função loop funciona pra sempre
 void loop() {
-  digitalWrite(LED_BUILTIN, HIGH);   // turn the LED on (HIGH is the voltage level)
-  delay(1000);                       // wait for a second
-  digitalWrite(LED_BUILTIN, LOW);    // turn the LED off by making the voltage LOW
-  delay(1000);                       // wait for a second
+  digitalWrite(LED_BUILTIN, HIGH);   // liga a LED (HIGH é o nível de voltagem)
+  delay(1000);                       // espera por um segundo
+  digitalWrite(LED_BUILTIN, LOW);    // desliga a LED, deixando a voltagem em LOW
+  delay(1000);                       // espera por um segundo
 }
 ```
 
 Depois disso, fiz algumas variações, como por exemplo: escrever "MELISSA" em código morse ou fazer a LED piscar mais rapidamente.
 
-Futuramente, quando a protoboard chegar, pretendo comprar botões, LEDs RGB, muitos cabos, resistores etc.
+Futuramente, quando a protoboard chegar, pretendo comprar botões, LEDs RGB, muitos cabos, resistores e muito mais. A ideia é fazer uma [*useless machine*](https://en.wikipedia.org/wiki/Useless_machine) do zero, sozinho. Em breve escreverei mais sobre projetos em Arduino.
+
+Inclusive, um material muito bom que usei durante o processo de aprendizado, foi [esse vídeo](video) do [Afrotechmods](https://www.youtube.com/channel/UCosnWgi3eorc1klEQ8pIgJQ), no YouTube, que recomendo muitíssimo.
 
 [arduino-uno]:https://store.arduino.cc/products/arduino-uno-rev3/
+[video]:https://youtu.be/nL34zDTPkcs
