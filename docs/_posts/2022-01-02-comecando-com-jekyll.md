@@ -13,6 +13,8 @@ Ainda existem algumas coisas na minha lista de afazeres futuros:
 - criar e usar meu próprio tema
 - migrar para o [GitLab](https://gitlab.com/)
 - aprender mais sobre GitLab
+- remodelar o site inteiro
+- disponibilizar o blogue em dois idiomas (inglês e português)
 
 Afazeres que acompanham outros afazeres...
 - aprender Unix
